@@ -10,15 +10,12 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     border: 2px solid green;
-    height: 100vh;
-    justify-items: center;
 }
 .card{
     margin: 30px;
     font-size: 40px;
     padding: 50px;
     background: red;
-    height: 200px;
     
 }
 
