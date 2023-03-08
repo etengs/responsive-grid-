@@ -56,6 +56,6 @@ header{
 @media (max-width: 425px){
     .container{
         grid-template-columns: 1fr;
-        margin: 20px;
+        
     }
 }
